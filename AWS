@@ -5,7 +5,7 @@ public class MultiplyTwoNumbers {
         float first = 1.5f;
         float second = 2.0f;
 
-        
+        system.out. println
 
       
     }
